@@ -24,3 +24,5 @@ Then in the address bar type, gitpod.io/# , and then paste the URL of your repos
 ![](/assets/open-in-gitpod-as-workspace.gif)
 
 If you’re signed into Gitpod, this will create a workspace for you based on your repository. You can follow these steps any time you want to start a new project.
+
+To make that process easier, [Gitpod has a browser extension](https://www.gitpod.io/docs/20_browser_extension/) that you can install if you want to.
