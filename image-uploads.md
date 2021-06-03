@@ -54,7 +54,7 @@ In the relevant model,
 
 ```ruby
 # app/models/user.rb
-class User < ActiveRecord::Base
+class User < ApplicationRecord
   mount_uploader :avatar, AvatarUploader
 end
 ```
