@@ -50,7 +50,7 @@ In your case, change `Avatar` to match whatever you are trying to upload / the c
 
 ### Mount the uploader in the model
 
-In the relevant model,
+In the relevant model add `mount_uploader :avatar, AvatarUploader`.
 
 ```ruby
 # app/models/user.rb
