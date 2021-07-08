@@ -254,7 +254,7 @@ For now, we're just going to copy-paste a few simple regexes[^regexone] that com
     ```ruby
     "Hello there,\nfriend".gsub(/\s+/, "") # => "Hellothere,friend"
     ```
- - `/[^0-9]/` matches everything _except_ numeric digits, , so we can use it with `gsub` to _remove_ everything except digits:
+ - `/[^0-9]/` matches everything _except_ numeric digits, so we can use it with `gsub` to _remove_ everything except digits:
 
     ```ruby
     "March 29th!".gsub(/[^0-9]/, "") # => "29"
