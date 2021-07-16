@@ -4,31 +4,31 @@ Gitpod has two editors: Theia and VS Code. VS Code is the newly added editor and
 
 ## Opening browser preview window
 
-### Theia
+### Theia Preview
 
 ![](/assets/gitpod-theia-open-preview.gif)
 
-### VS Code
+### VS Code Preview
 
 ![](/assets/gitpod-vscode-open-preview.gif)
 
 ## Sharing workspace snapshot
 
-### Theia
+### Theia Snapshot
 
 ![](/assets/gitpod-snapshot-theia.gif)
 
-### VS Code
+### VS Code Snapshot
 
 ![](/assets/gitpod-snapshot-vs-code.gif)
 
 ## Terminal tabs
 
-### Theia
+### Theia Terminal
 
 ![](/assets/gitpod-theia-terminal-tabs.gif)
 
-### VS Code
+### VS Code Terminal
 
 ![](/assets/gitpod-vscode-terminal-tabs.gif)
 
