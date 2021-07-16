@@ -2,7 +2,6 @@
 
 Gitpod has two editors: Theia and VS Code. VS Code is the newly added editor and also the new default, while the majority of the chapters and recordings depict the Theia editor.
 
-
 ## Opening browser preview window
 
 ### Theia
